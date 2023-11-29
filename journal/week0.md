@@ -19,8 +19,12 @@
 - policies: can be attached to roles and users or groups of users
 
 - install CLI
+
+
   
   ![image](https://github.com/AFernandoGonzalez/aws-bootcamp-cruddur-2023/assets/58346389/e1ca30e8-f6b2-4665-8a02-dba5dda51853)
+  
+<img src="https://github.com/AFernandoGonzalez/aws-bootcamp-cruddur-2023/assets/58346389/e1ca30e8-f6b2-4665-8a02-dba5dda51853" width="300" alt="Image Description">
 
 
 ### Created Logical Architectural Design
