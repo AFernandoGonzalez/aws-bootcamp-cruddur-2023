@@ -23,5 +23,9 @@
   ![image](https://github.com/AFernandoGonzalez/aws-bootcamp-cruddur-2023/assets/58346389/e1ca30e8-f6b2-4665-8a02-dba5dda51853)
 
 
+### Created Logical Architectural Design
 
+![App Logical Diagram](https://github.com/AFernandoGonzalez/aws-bootcamp-cruddur-2023/assets/58346389/d78e27ab-be83-4332-97ad-b2ac0f54890c)
+
+Link to LucidChart : https://lucid.app/lucidchart/5fc9232b-3538-4a3e-b29e-b0b839846af5/edit?viewport_loc=-1333%2C-709%2C4374%2C2740%2C0_0&invitationId=inv_46f848d9-f532-460a-86a5-1e5414425449
 
