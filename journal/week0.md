@@ -13,5 +13,10 @@
 
 
 
+## IAM
+- users : can access to services they have permissions
+- roles : can be attached to aws services/entity and users
+- policies : can be attached to roles and users or group of users
+
 
 
